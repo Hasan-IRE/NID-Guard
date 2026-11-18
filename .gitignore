@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+backend/.venv/
+backend/venv/
+.venv/
+venv/
+
+# Production build
+dist/
+dist-ssr/
+*.local
+
+# Python cache & database files
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+backend/models/
+backend/face_data/
+logs/
+
+# Environment files
+.env
+*.env
+!key.env.example
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

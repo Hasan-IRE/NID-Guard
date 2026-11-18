@@ -1,0 +1,13 @@
+
+flask>=2.3.0
+flask-cors>=4.0.0
+requests>=2.31.0
+opencv-python-headless>=4.8.0.76
+numpy>=1.24.0
+
+# Security and Encryption
+cryptography>=42.0.0
+argon2-cffi>=23.1.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
